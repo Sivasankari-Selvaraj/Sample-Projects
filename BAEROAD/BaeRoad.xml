@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BaeRoad">
+
+	<test name="LoginPageTest BaeRoad">
+
+		<classes>
+
+
+			<class name="BAE_ROAD_TESTCASES.LoginPage_BaeRoad"></class>
+
+		</classes>
+
+
+	</test>
+	<test name="HomePageTest BaeRoad">
+
+		<classes>
+
+
+			<class name="BAE_ROAD_TESTCASES.HomePage_BaeRoad"></class>
+
+		</classes>
+
+
+	</test>
+	<test name="ProfilePageTest BaeRoad">
+
+		<classes>
+
+
+			<class name="BAE_ROAD_TESTCASES.ProfilePage_BaeRoad"></class>
+
+		</classes>
+
+
+	</test>
+
+	<test name="MessagePageTest BaeRoad">
+
+		<classes>
+
+
+			<class name="BAE_ROAD_TESTCASES.MessagePage_BaeRoad"></class>
+
+		</classes>
+
+
+	</test>
+
+	 <test name="AccountsPageTest BaeRoad">
+
+		<classes>
+
+
+			<class name="BAE_ROAD_TESTCASES.AccountsPage_BaeRoad"></class>
+
+		</classes>
+
+	</test>
+
+	<test name="PurchasesPageTest BaeRoad">
+
+		<classes>
+
+
+			<class name="BAE_ROAD_TESTCASES.PurchasePage_BaeRoad"></class>
+
+		</classes>
+
+
+	</test>
+
+ 
+</suite>

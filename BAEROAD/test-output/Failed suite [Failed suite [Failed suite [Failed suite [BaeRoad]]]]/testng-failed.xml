@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [BaeRoad]]]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="AccountsPageTest BaeRoad(failed)(failed)(failed)(failed)(failed)">
+    <classes>
+      <class name="BAE_ROAD_TESTCASES.AccountsPage_BaeRoad">
+        <methods>
+          <include name="browserlaunch"/>
+          <include name="AccountsPageMessgeOptionpaidUploadPost"/>
+          <include name="browserclose"/>
+        </methods>
+      </class> <!-- BAE_ROAD_TESTCASES.AccountsPage_BaeRoad -->
+    </classes>
+  </test> <!-- AccountsPageTest BaeRoad(failed)(failed)(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [BaeRoad]]]]] -->
